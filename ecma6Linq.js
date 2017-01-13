@@ -1,3 +1,5 @@
+var dd =require('harmony-reflect')
+
 var query=function(arr){
 	
 	var funcs=[]
